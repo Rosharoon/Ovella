@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "Ovella",
+    "slug": "ovella",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5F7"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ovella.app",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Ovella"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF5F7"
+      },
+      "package": "com.ovella.app",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "color": "#A35D7A"
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FFF5F7",
+          "image": "./assets/splash.png",
+          "resizeMode": "contain",
+          "imageWidth": 300
+        }
+      ],
+      "@react-native-community/datetimepicker",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Ovella uses your location to pin appointment places on the map."
+        }
+      ]
+    ]
+  }
+}

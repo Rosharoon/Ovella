@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Floral mark" clip-path="url(#clip0_0_32)">
+<ellipse id="Petal" cx="12" cy="6" rx="3" ry="6" fill="#701F4D"/>
+<ellipse id="Petal_2" cx="19.1579" cy="8.15358" rx="5.5" ry="3" transform="rotate(-18 19.1579 8.15358)" fill="#701F4D"/>
+<ellipse id="Petal_3" cx="18.3481" cy="15.2631" rx="3" ry="5.5" transform="rotate(-30 18.3481 15.2631)" fill="#701F4D"/>
+<ellipse id="Petal_4" cx="4.84808" cy="18.2631" rx="3" ry="5.5" transform="rotate(30 4.84808 18.2631)" fill="#701F4D"/>
+<ellipse id="Petal_5" cx="4.30376" cy="11.5528" rx="5.5" ry="3" transform="rotate(18 4.30376 11.5528)" fill="#701F4D"/>
+<circle id="Core" cx="12" cy="12" r="3" fill="#ED5C7A"/>
+</g>
+<defs>
+<clipPath id="clip0_0_32">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

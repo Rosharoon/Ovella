@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383346406590",
+    "project_id": "ovella-d17b2",
+    "storage_bucket": "ovella-d17b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383346406590:android:258f5ad69e7363deb01aef",
+        "android_client_info": {
+          "package_name": "com.ovella.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DeASyODvJomMGTOyt3HJCI7EQzsKuH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
